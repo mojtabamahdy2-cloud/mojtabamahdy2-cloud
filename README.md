@@ -3,7 +3,7 @@
 <img src="assets/header-banner.svg" width="100%"/>
 
 <a href="https://github.com/mojtabamahdy2-cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=700&height=110&lines=AI+Agent+%26+Automation+Builder;n8n+%7C+RAG+Pipelines+%7C+Chatbots;TypeScript+%2F+Next.js+%2F+Odoo+Integrations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=700&height=110&lines=AI+Agent+%26+Automation+Builder;n8n+%7C+RAG+Pipelines+%7C+Chatbots;SQL+%2F+CRM+%2F+Odoo+Integrations" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,7 +15,7 @@
 - 🔭 Currently building scalable **AI-powered automation agents** with n8n, RAG pipelines, and chatbots (WhatsApp, website widgets, Odoo v19 integrations)
 - 🛠️ Sharpening full-stack + data skills through freeCodeCamp database projects (PostgreSQL / Shell)
 - 💡 I love turning repetitive workflows into self-running agents
-- 📫 Reach me: *add your email / LinkedIn here*
+- 📫 Reach me: *mojtabamahdy2@gmail.com /  https://www.linkedin.com/in/mojtaba-mahdy-245964180*
 
 <br/>
 
