@@ -12,8 +12,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building **AI-powered automation agents** with n8n, RAG pipelines, and chatbots (WhatsApp, website widgets, Odoo v19 integrations)
-- 🚀 Founder-mode on **otomax** — a startup project spanning web and Next.js
+- 🔭 Currently building scalable **AI-powered automation agents** with n8n, RAG pipelines, and chatbots (WhatsApp, website widgets, Odoo v19 integrations)
 - 🛠️ Sharpening full-stack + data skills through freeCodeCamp database projects (PostgreSQL / Shell)
 - 💡 I love turning repetitive workflows into self-running agents
 - 📫 Reach me: *add your email / LinkedIn here*
@@ -91,11 +90,9 @@
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="linkedin.com/in/mojtaba-mahdy-245964180"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mojtabamahdy2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-*(swap the `#` links above for your real profile URLs)*
 
 </div>
 
