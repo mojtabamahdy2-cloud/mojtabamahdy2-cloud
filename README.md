@@ -81,9 +81,6 @@
 <!--END_SECTION:snake-->
 
 </div>
-
-> ℹ️ The snake above needs a tiny one-time setup — see `snake-workflow.yml` (included alongside this README) for the GitHub Action that generates it automatically every day.
-
 <br/>
 
 ## 🤝 Connect With Me
