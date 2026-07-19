@@ -1,0 +1,27 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <path d="M0,170 C300,220 900,120 1200,170 L1200,220 L0,220 Z" fill="url(#wave)"/>
+  <path d="M0,190 C350,230 850,150 1200,190 L1200,220 L0,220 Z" fill="#ffffff" fill-opacity="0.9"/>
+
+  <text x="600" y="95" font-family="Segoe UI, Verdana, sans-serif" font-size="46" font-weight="700"
+        fill="#ffffff" text-anchor="middle">
+    Hi 👋, I'm Mojtaba
+  </text>
+
+  <text x="600" y="140" font-family="Segoe UI, Verdana, sans-serif" font-size="19" font-weight="400"
+        fill="#f0f4ff" text-anchor="middle">
+    Building AI Agents &amp; Automation That Just Work
+  </text>
+</svg>
