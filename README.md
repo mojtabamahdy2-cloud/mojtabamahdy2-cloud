@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%E2%80%99m%20Mojtaba&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Building%20AI%20Agents%20%26%20Automation%20That%20Just%20Work&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/header-banner.svg" width="100%"/>
 
 <a href="https://github.com/mojtabamahdy2-cloud">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=650&height=90&lines=AI+Agent+%26+Automation+Builder;n8n+%7C+RAG+Pipelines+%7C+Chatbots;TypeScript+%2F+Next.js+%2F+Odoo+Integrations" alt="Typing SVG" />
