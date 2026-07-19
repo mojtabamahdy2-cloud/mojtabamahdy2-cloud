@@ -3,7 +3,7 @@
 <img src="assets/header-banner.svg" width="100%"/>
 
 <a href="https://github.com/mojtabamahdy2-cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=650&height=90&lines=AI+Agent+%26+Automation+Builder;n8n+%7C+RAG+Pipelines+%7C+Chatbots;TypeScript+%2F+Next.js+%2F+Odoo+Integrations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=700&height=110&lines=AI+Agent+%26+Automation+Builder;n8n+%7C+RAG+Pipelines+%7C+Chatbots;TypeScript+%2F+Next.js+%2F+Odoo+Integrations" alt="Typing SVG" />
 </a>
 
 </div>
@@ -42,17 +42,18 @@
 
 <div align="center">
 
+<a href="https://github.com/mojtabamahdy2-cloud/otomax-next.js">
+  <img src="assets/card-tasking.png" width="48%"/>
+</a>
 <a href="https://github.com/mojtabamahdy2-cloud/autohunt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mojtabamahdy2-cloud&repo=autohunt&theme=tokyonight&hide_border=true" />
+  <img src="assets/card-autohunt.png" width="48%"/>
 </a>
 <a href="https://github.com/mojtabamahdy2-cloud/company_knowledge_base">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mojtabamahdy2-cloud&repo=company_knowledge_base&theme=tokyonight&hide_border=true" />
+  <img src="assets/card-ckb.png" width="48%"/>
 </a>
+<br/>
 <a href="https://github.com/mojtabamahdy2-cloud/whatsapp_chatAgent_from_odoov19">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mojtabamahdy2-cloud&repo=whatsapp_chatAgent_from_odoov19&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/mojtabamahdy2-cloud/otomax-next.js">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mojtabamahdy2-cloud&repo=otomax-next.js&theme=tokyonight&hide_border=true" />
+  <img src="assets/card-whatsapp.png" width="48%"/>
 </a>
 
 </div>
