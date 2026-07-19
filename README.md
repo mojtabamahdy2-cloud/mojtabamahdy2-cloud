@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<a href="https://github.com/mojtabamahdy2-cloud/otomax-next.js">
+<a href="https://github.com/mojtabamahdy2-cloud/tasking">
   <img src="assets/card-tasking.png" width="48%"/>
 </a>
 <a href="https://github.com/mojtabamahdy2-cloud/autohunt">
