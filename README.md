@@ -3,7 +3,7 @@
 <img src="assets/header-banner.svg" width="100%"/>
 
 <a href="https://github.com/mojtabamahdy2-cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=700&height=110&lines=AI+Agent+%26+Automation+Builder;n8n+%7C+RAG+Pipelines+%7C+Chatbots;SQL+%2F+CRM+%2F+Odoo+Integrations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=700&height=110&lines=AI+Agent+%26+Automation+Builder;n8n+%7C+RAG+Pipelines+%7C+Chatagents;SQL+%2F+CRM+%2F+Odoo+Integrations" alt="Typing SVG" />
 </a>
 
 </div>
@@ -13,8 +13,8 @@
 ## 🧠 About Me
 
 - 🔭 Always building scalable **AI-powered automation agents** with n8n, RAG pipelines, and chatagents (WhatsApp, website widgets, Odoo v19 integrations).
-- 🛠️ Scaling my automation skills with SQL.
-- 💡 I love turning repetitive workflows into self-running agents.
+- 🛠️ Scaling automations skills with SQL.
+- 💡 I love turning problems into self-running agents.
 - ✨ Occational vibe codeing of integrated automation UI, websites or personal projects.
 - 📫 Reach me: *mojtabamahdy2@gmail.com /  https://www.linkedin.com/in/mojtaba-mahdy-245964180*
 
@@ -25,7 +25,6 @@
 <div align="center">
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
