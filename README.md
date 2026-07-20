@@ -12,9 +12,10 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building scalable **AI-powered automation agents** with n8n, RAG pipelines, and chatbots (WhatsApp, website widgets, Odoo v19 integrations)
-- 🛠️ Sharpening full-stack + data skills through freeCodeCamp database projects (PostgreSQL / Shell)
-- 💡 I love turning repetitive workflows into self-running agents
+- 🔭 Always building scalable **AI-powered automation agents** with n8n, RAG pipelines, and chatagents (WhatsApp, website widgets, Odoo v19 integrations).
+- 🛠️ Scaling my automation skills with SQL.
+- 💡 I love turning repetitive workflows into self-running agents.
+- ✨ Occational vibe codeing of integrated automation UI, websites or personal projects.
 - 📫 Reach me: *mojtabamahdy2@gmail.com /  https://www.linkedin.com/in/mojtaba-mahdy-245964180*
 
 <br/>
@@ -24,9 +25,6 @@
 <div align="center">
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
