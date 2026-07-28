@@ -36,19 +36,21 @@
 <br/>
 
 ## 📌 Featured Projects
-
+### Social Media Automations: 
 <div align="center">
 
-<a href="https://github.com/mojtabamahdy2-cloud/tasking">
-  <img src="assets/card-tasking.png" width="48%"/>
+<a href="https://github.com/mojtabamahdy2-cloud/comment_auto-reply">
+  <img src="assets/comment.jpg" width="48%"/>
 </a>
-<a href="https://github.com/mojtabamahdy2-cloud/autohunt">
-  <img src="assets/card-autohunt.png" width="48%"/>
+
+<a href="https://github.com/mojtabamahdy2-cloud/instagram-facebook-dm-autoresponder">
+  <img src="assets/dm-autoresponder.png" width="48%"/>
 </a>
-<a href="https://github.com/mojtabamahdy2-cloud/company_knowledge_base">
-  <img src="assets/card-ckb.png" width="48%"/>
+
+<a href="https://github.com/mojtabamahdy2-cloud/website_chat_agent">
+  <img src="assets/website-chatagent.png" width="48%"/>
 </a>
-<br/>
+
 <a href="https://github.com/mojtabamahdy2-cloud/whatsapp_chatAgent_from_odoov19">
   <img src="assets/card-whatsapp.png" width="48%"/>
 </a>
@@ -56,7 +58,27 @@
 </div>
 
 <br/>
+## Other Featured Projects: 
+<div align="center">
 
+<a href="https://github.com/mojtabamahdy2-cloud/tasking">
+  <img src="assets/card-tasking.png" width="48%"/>
+</a>
+<a href="https://github.com/mojtabamahdy2-cloud/company_knowledge_base">
+  <img src="assets/card-ckb.png" width="48%"/>
+</a>
+
+
+</div>
+<br/>
+
+## Personal Projects: 
+<div>
+<a href="https://github.com/mojtabamahdy2-cloud/autohunt">
+  <img src="assets/card-autohunt.png" width="100%"/>
+</a>
+</div>
+<br/>
 ## 📊 GitHub Stats
 
 <div align="center">
