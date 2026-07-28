@@ -60,7 +60,8 @@
 </div>
 
 <br/>
-## Other Featured Projects: 
+
+### Other Featured Projects: 
 <div align="center">
 
 <a href="https://github.com/mojtabamahdy2-cloud/tasking">
@@ -74,7 +75,7 @@
 </div>
 <br/>
 
-## Personal Projects: 
+### Personal Projects: 
 <div>
 <a href="https://github.com/mojtabamahdy2-cloud/autohunt">
   <img src="assets/card-autohunt.jpg" width="100%"/>
