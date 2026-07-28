@@ -3,7 +3,7 @@
 <img src="assets/header-banner.svg" width="100%"/>
 
 <a href="https://github.com/mojtabamahdy2-cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=700&height=110&lines=AI+Agent+%26+Automation+Builder;n8n+%7C+RAG+Pipelines+%7C+Chatagents;SQL+%2F+CRM+%2F+Odoo+Integrations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=700&height=110&lines=AI+Agent+%26+Automation+Builder;n8n+%7C+RAG+Pipelines+%7C+Chatagents;SQL+%2F+CRM+%2F+Social+Media" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,10 +12,10 @@
 
 ## 🧠 About Me
 
-- 🔭 Always building scalable **AI-powered automation agents** with n8n, RAG pipelines, and chatagents (WhatsApp, website widgets, Odoo v19 integrations).
-- 🛠️ Scaling automations skills with SQL.
+- 🔭 Always building scalable **AI-powered automation agents** with n8n, RAG pipelines, Social Media Automations and chatagents (WhatsApp, website widgets, Facebook and Instagram).
+- 🛠️ Scaling automations with SQL.
 - 💡 I love turning problems into self-running agents.
-- ✨ Occational vibe codeing of integrated automation UI, websites or personal projects.
+- ✨ Occational vibe codeing for integrated UIs, Dashboards or personal projects.
 - 📫 Reach me: *mojtabamahdy2@gmail.com /  https://www.linkedin.com/in/mojtaba-mahdy-245964180*
 
 <br/>
@@ -27,9 +27,11 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 
 </div>
 
@@ -52,7 +54,7 @@
 </a>
 
 <a href="https://github.com/mojtabamahdy2-cloud/whatsapp_chatAgent_from_odoov19">
-  <img src="assets/card-whatsapp.png" width="48%"/>
+  <img src="assets/card-whatsapp.jpg" width="48%"/>
 </a>
 
 </div>
@@ -62,10 +64,10 @@
 <div align="center">
 
 <a href="https://github.com/mojtabamahdy2-cloud/tasking">
-  <img src="assets/card-tasking.png" width="48%"/>
+  <img src="assets/card-tasking.jpg" width="48%"/>
 </a>
 <a href="https://github.com/mojtabamahdy2-cloud/company_knowledge_base">
-  <img src="assets/card-ckb.png" width="48%"/>
+  <img src="assets/card-ckb.jpg" width="48%"/>
 </a>
 
 
@@ -75,7 +77,7 @@
 ## Personal Projects: 
 <div>
 <a href="https://github.com/mojtabamahdy2-cloud/autohunt">
-  <img src="assets/card-autohunt.png" width="100%"/>
+  <img src="assets/card-autohunt.jpg" width="100%"/>
 </a>
 </div>
 <br/>
