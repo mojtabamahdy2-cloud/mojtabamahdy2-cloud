@@ -61,7 +61,7 @@
 
 <br/>
 
-### Other Featured Projects: 
+### Internal Operations Projects: 
 <div align="center">
 
 <a href="https://github.com/mojtabamahdy2-cloud/tasking">
