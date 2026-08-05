@@ -12,11 +12,19 @@
 
 ## 🧠 About Me
 
-- 🔭 Always building scalable **AI-powered automation agents** with n8n, RAG pipelines, Social Media Automations and chatagents (WhatsApp, website widgets, Facebook and Instagram).
+- 🔭 Always building scalable **AI-powered automation agents** with n8n.
 - 🛠️ Scaling automations with SQL.
+- ⚡ Bridging the gaps with Python. 
 - 💡 I love turning problems into self-running agents.
 - ✨ Occational vibe codeing for integrated UIs, Dashboards or personal projects.
-- 📫 Reach me: *mojtabamahdy2@gmail.com /  https://www.linkedin.com/in/mojtaba-mahdy-245964180*
+- 📫 Reach out: 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mojtaba-mahdy-245964180"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mojtabamahdy2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+</div>
 
 <br/>
 
@@ -82,7 +90,8 @@
 </a>
 </div>
 <br/>
-## 📊 GitHub Stats
+
+## 📊 GitHub Stats: 
 
 <div align="center">
 
@@ -96,6 +105,7 @@
 <br/>
 
 ## 📈 Contribution Snake
+### Includes private contributions
 
 <div align="center">
 
