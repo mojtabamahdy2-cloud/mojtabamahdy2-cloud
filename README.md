@@ -3,7 +3,7 @@
 <img src="assets/header-banner.svg" width="100%"/>
 
 <a href="https://github.com/mojtabamahdy2-cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=700&height=110&lines=AI+Agent+%26+Automation+Builder;n8n+workflows+%7C+Data+Analysis+%7C+RAG+Pipelines+%7C+Chatagents;Python+%7C+SQL+%7C+CRM+%7C+Social+Media" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=900&height=110&lines=AI+Agent+%26+Automation+Builder;n8n+workflows+%7C+Data+Analysis+%7C+RAG+Pipelines+%7C+Chatagents;Python+%7C+SQL+%7C+CRM+%7C+Social+Media" alt="Typing SVG" />
 </a>
 
 </div>
