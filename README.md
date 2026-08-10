@@ -55,7 +55,7 @@
 </a>
 
 <a href="https://github.com/mojtabamahdy2-cloud/instagram-facebook-dm-autoresponder">
-  <img src="assets/dm-autoresponder.png" width="48%"/>
+  <img src="assets/dm-autoresponder.jpg" width="48%"/>
 </a>
 
 <a href="https://github.com/mojtabamahdy2-cloud/website_chat_agent">
