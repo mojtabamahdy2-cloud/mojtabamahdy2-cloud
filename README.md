@@ -47,6 +47,21 @@
 <br/>
 
 ## 📌 Featured Projects
+
+## Data Analysis Projects: 
+
+<div align="center">
+
+<a href="https://github.com/mojtabamahdy2-cloud/saudi-hospital-visit-analytics">
+  <img src="assets/hospital-analytics.jpg" width="48%"/>
+</a>
+
+<a href="https://github.com/mojtabamahdy2-cloud/sql-task-management-dashboard">
+  <img src="assets/task-analytics.jpg" width="48%"/>
+</a>
+
+</div>
+
 ### Social Media Automations: 
 <div align="center">
 
