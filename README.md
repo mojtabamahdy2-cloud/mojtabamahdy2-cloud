@@ -46,65 +46,101 @@
 
 <br/>
 
-## 📌 Featured Projects
+## 📌 Featured Projects (click on any project's thumbnail to view its repo)
 
-## Data Analysis Projects: 
+### Data Analysis Projects:
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mojtabamahdy2-cloud/saudi-hospital-visit-analytics">
+        <img src="assets/hospital-analytics.jpg" width="100%"/>
+        <br/>
+        <sub><b>View Repo ↗</b></sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mojtabamahdy2-cloud/sql-task-management-dashboard">
+        <img src="assets/task-analytics.jpg" width="100%"/>
+        <br/>
+        <sub><b>View Repo ↗</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/mojtabamahdy2-cloud/saudi-hospital-visit-analytics">
-  <img src="assets/hospital-analytics.jpg" width="48%"/>
-</a>
+### Social Media Automations:
 
-<a href="https://github.com/mojtabamahdy2-cloud/sql-task-management-dashboard">
-  <img src="assets/task-analytics.jpg" width="48%"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mojtabamahdy2-cloud/comment_auto-reply">
+        <img src="assets/comment.jpg" width="100%"/>
+        <br/>
+        <sub><b>View Repo ↗</b></sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mojtabamahdy2-cloud/instagram-facebook-dm-autoresponder">
+        <img src="assets/dm-autoresponder.jpg" width="100%"/>
+        <br/>
+        <sub><b>View Repo ↗</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mojtabamahdy2-cloud/website_chat_agent">
+        <img src="assets/website-chatagent.png" width="100%"/>
+        <br/>
+        <sub><b>View Repo ↗</b></sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mojtabamahdy2-cloud/whatsapp_chatAgent_from_odoov19">
+        <img src="assets/card-whatsapp.jpg" width="100%"/>
+        <br/>
+        <sub><b>View Repo ↗</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-</div>
+### Internal Operations Projects:
 
-### Social Media Automations: 
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mojtabamahdy2-cloud/tasking">
+        <img src="assets/card-tasking.jpg" width="100%"/>
+        <br/>
+        <sub><b>View Repo ↗</b></sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mojtabamahdy2-cloud/company_knowledge_base">
+        <img src="assets/card-ckb.jpg" width="100%"/>
+        <br/>
+        <sub><b>View Repo ↗</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/mojtabamahdy2-cloud/comment_auto-reply">
-  <img src="assets/comment.jpg" width="48%"/>
-</a>
+### Personal Projects:
 
-<a href="https://github.com/mojtabamahdy2-cloud/instagram-facebook-dm-autoresponder">
-  <img src="assets/dm-autoresponder.jpg" width="48%"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://github.com/mojtabamahdy2-cloud/autohunt">
+        <img src="assets/card-autohunt.jpg" width="100%"/>
+        <br/>
+        <sub><b>View Repo ↗</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/mojtabamahdy2-cloud/website_chat_agent">
-  <img src="assets/website-chatagent.png" width="48%"/>
-</a>
-
-<a href="https://github.com/mojtabamahdy2-cloud/whatsapp_chatAgent_from_odoov19">
-  <img src="assets/card-whatsapp.jpg" width="48%"/>
-</a>
-
-</div>
-
-<br/>
-
-### Internal Operations Projects: 
-<div align="center">
-
-<a href="https://github.com/mojtabamahdy2-cloud/tasking">
-  <img src="assets/card-tasking.jpg" width="48%"/>
-</a>
-<a href="https://github.com/mojtabamahdy2-cloud/company_knowledge_base">
-  <img src="assets/card-ckb.jpg" width="48%"/>
-</a>
-
-
-</div>
-<br/>
-
-### Personal Projects: 
-<div>
-<a href="https://github.com/mojtabamahdy2-cloud/autohunt">
-  <img src="assets/card-autohunt.jpg" width="100%"/>
-</a>
-</div>
 <br/>
 
 ## 📊 GitHub Stats: 
