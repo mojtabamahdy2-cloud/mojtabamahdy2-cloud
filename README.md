@@ -18,21 +18,14 @@
 - 📊 Data Analysis with SQL, python and MS Excel.
 - 💡 I love turning problems into self-running agents.
 - ✨ Occational vibe codeing for integrated UIs, Dashboards or personal projects.
-- 📫 Reach out: 
-<div align="center">
 
-
-<a href="mailto:mojtabamahdy2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-
-</div>
 
 <br/>
 
 ## ⚙️ Tech & Tools
 
 <div align="center">
-
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -169,11 +162,7 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-
-
-<a href="mailto:mojtabamahdy2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-
+  <a href="mailto:mojtabamahdy2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" width="100%"/>
