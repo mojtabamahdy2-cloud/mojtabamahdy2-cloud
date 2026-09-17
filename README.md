@@ -12,12 +12,11 @@
 
 ## 🧠 About Me
 
-- 🔭 Always building scalable **AI-powered automation agents** with n8n.
-- 🛠️ Scaling automations with SQL.
-- ⚡ Bridging the gaps with Python.
+- 🔭 Always building scalable **AI-powered automations and agents**.
+- 🛠️ Building scalable systems with SQL.
+- ⚡ Bridging gaps with Python.
 - 📊 Data Analysis with SQL, python and MS Excel.
-- 💡 I love turning problems into self-running agents.
-- ✨ Occational vibe codeing for integrated UIs, Dashboards or personal projects.
+- 💡 Give me a problem and I will turn it into a self-running agents.
 
 
 <br/>
