@@ -16,7 +16,7 @@
 - 🛠️ Building scalable systems with SQL.
 - ⚡ Bridging gaps with Python.
 - 📊 Data Analysis with SQL, python and MS Excel.
-- 💡 Give me a problem and I will turn it into a self-running agents.
+- 💡 Give me a problem and I will turn it into a self-running agent.
 
 
 <br/>
